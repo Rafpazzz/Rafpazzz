@@ -101,14 +101,6 @@ Aplicação web para gerenciamento de locação de veículos, desenvolvida com *
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafpazzz&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafpazzz&layout=compact&theme=transparent)
-
----
-
 ## 📫 Contato
 
 Você pode me encontrar pelas redes fixadas no meu perfil ou entrar em contato pelo LinkedIn.
