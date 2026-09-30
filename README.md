@@ -12,7 +12,7 @@ Trabalho principalmente com **Java** e **Spring Boot** no backend e com **Vue** 
 - 💻 Desenvolvedor Full Stack — Java/Spring Boot no back, Vue/React no front
 - 🧠 Interesse em arquitetura de software, APIs, banco de dados e IA
 - 🏆 Participante da etapa regional da Maratona de Programação da SBC 2025
-- 👥 Fundador da Liga de Programação da UESPI
+
 
 ---
 
